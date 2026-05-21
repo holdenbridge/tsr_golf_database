@@ -1,0 +1,3368 @@
+[
+  {
+    "id": "9d9e626f-4fbc-4389-980c-ffce6b2e0a54",
+    "name": "Fossil Trace",
+    "tee_box": "Blue",
+    "slope": 131,
+    "rating": 69.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 544
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 297
+      },
+      {
+        "hole": 3,
+        "par_value": 3,
+        "distance": 135
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 426
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 95
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 372
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 338
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 372
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 570
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 305
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 154
+      },
+      {
+        "hole": 12,
+        "par_value": 5,
+        "distance": 545
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 381
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 205
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 536
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 141
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 320
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 505
+      }
+    ]
+  },
+  {
+    "id": "2bf38f18-2e27-4572-ac67-1ab7e9e6fc07",
+    "name": "Walnut Creek",
+    "tee_box": "Tee 3",
+    "slope": 125,
+    "rating": 69.9,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 351
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 367
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 513
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 194
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 398
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 492
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 163
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 366
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 352
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 353
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 338
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 428
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 536
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 127
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 430
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 430
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 177
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 513
+      }
+    ]
+  },
+  {
+    "id": "3e1788be-0563-4806-b9fa-67d2815bf456",
+    "name": "Arrowhead Golf Club",
+    "tee_box": "Arrowhead",
+    "slope": 135,
+    "rating": 69.9,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 434
+      },
+      {
+        "hole": 2,
+        "par_value": 5,
+        "distance": 554
+      },
+      {
+        "hole": 3,
+        "par_value": 3,
+        "distance": 197
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 414
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 337
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 442
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 351
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 356
+      },
+      {
+        "hole": 9,
+        "par_value": 3,
+        "distance": 133
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 400
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 145
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 408
+      },
+      {
+        "hole": 13,
+        "par_value": 3,
+        "distance": 171
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 328
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 397
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 562
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 184
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 489
+      }
+    ]
+  },
+  {
+    "id": "48e6f00e-1621-438d-8e15-0c8f06e787d8",
+    "name": "Riverdale Dunes",
+    "tee_box": "Square",
+    "slope": 126,
+    "rating": 70.3,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 347
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 350
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 579
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 191
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 408
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 391
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 379
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 169
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 469
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 372
+      },
+      {
+        "hole": 11,
+        "par_value": 5,
+        "distance": 521
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 167
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 427
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 321
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 381
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 510
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 165
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 342
+      }
+    ]
+  },
+  {
+    "id": "31cf9096-d25b-4a78-911b-0b500d62aa05",
+    "name": "Legacy Ridge Golf Course",
+    "tee_box": "Black",
+    "slope": 128.0,
+    "rating": 70.4,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 408
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 417
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 492
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 159
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 344
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 523
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 347
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 149
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 352
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 342
+      },
+      {
+        "hole": 11,
+        "par_value": 5,
+        "distance": 521
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 150
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 350
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 444
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 350
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 219
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 414
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 497
+      }
+    ]
+  },
+  {
+    "id": "36332053-070c-497a-89eb-d754b64a6d90",
+    "name": "Overland Park Golf Course",
+    "tee_box": "Bronze/Gold",
+    "slope": 120.0,
+    "rating": 68.9,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 388
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 162
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 513
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 390
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 357
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 401
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 423
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 155
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 445
+      },
+      {
+        "hole": 10,
+        "par_value": 3,
+        "distance": 165
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 371
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 403
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 500
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 377
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 410
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 174
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 310
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 550
+      }
+    ]
+  },
+  {
+    "id": "7be17f8c-5885-4540-a76b-00d220ad0f65",
+    "name": "Willis Case Golf Course",
+    "tee_box": "Bronze",
+    "slope": 121.0,
+    "rating": 69.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 428
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 216
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 393
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 155
+      },
+      {
+        "hole": 5,
+        "par_value": 5,
+        "distance": 576
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 437
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 441
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 351
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 371
+      },
+      {
+        "hole": 10,
+        "par_value": 3,
+        "distance": 154
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 336
+      },
+      {
+        "hole": 12,
+        "par_value": 5,
+        "distance": 484
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 317
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 300
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 379
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 376
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 172
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 407
+      }
+    ]
+  },
+  {
+    "id": "ef50cf86-db4e-4e0a-bebe-bf4aa5c4cbd0",
+    "name": "John F Kennedy West/Babe",
+    "tee_box": "Gold",
+    "slope": 118.0,
+    "rating": 71.1,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 469
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 437
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 376
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 172
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 442
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 362
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 435
+      },
+      {
+        "hole": 8,
+        "par_value": 5,
+        "distance": 499
+      },
+      {
+        "hole": 9,
+        "par_value": 3,
+        "distance": 140
+      },
+      {
+        "hole": 10,
+        "par_value": 5,
+        "distance": 489
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 441
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 215
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 340
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 173
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 440
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 578
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 409
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 403
+      }
+    ]
+  },
+  {
+    "id": "f459c0eb-6a5b-44b7-bfad-6dc429f39fc6",
+    "name": "Fossil Trace",
+    "tee_box": "Black",
+    "slope": 141.0,
+    "rating": 72.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 575
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 320
+      },
+      {
+        "hole": 3,
+        "par_value": 3,
+        "distance": 151
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 480
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 96
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 409
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 377
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 412
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 626
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 333
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 186
+      },
+      {
+        "hole": 12,
+        "par_value": 5,
+        "distance": 585
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 394
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 231
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 565
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 160
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 356
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 542
+      }
+    ]
+  },
+  {
+    "id": "3d8c8bd2-0324-4c2f-b686-a4b4529b5a38",
+    "name": "Cougar Point",
+    "tee_box": "Gold",
+    "slope": 133.0,
+    "rating": 71.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 334
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 137
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 502
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 421
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 361
+      },
+      {
+        "hole": 6,
+        "par_value": 3,
+        "distance": 159
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 326
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 328
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 501
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 406
+      },
+      {
+        "hole": 11,
+        "par_value": 5,
+        "distance": 463
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 188
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 365
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 150
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 500
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 361
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 337
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 366
+      }
+    ]
+  },
+  {
+    "id": "796c73e1-ea5f-479c-a705-d74b6127c47d",
+    "name": "City Park Golf Course",
+    "tee_box": "Gold",
+    "slope": 122.0,
+    "rating": 67.6,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 407
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 221
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 356
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 420
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 187
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 317
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 351
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 182
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 506
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 362
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 435
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 134
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 453
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 366
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 415
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 538
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 193
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 389
+      }
+    ]
+  },
+  {
+    "id": "fbc3056e-8999-406c-a21e-57ef4497838d",
+    "name": "Walnut Creek",
+    "tee_box": "Tee 2",
+    "slope": 135.0,
+    "rating": 72.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 367
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 399
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 540
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 214
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 424
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 524
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 183
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 394
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 389
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 381
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 361
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 449
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 564
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 146
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 461
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 443
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 193
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 536
+      }
+    ]
+  },
+  {
+    "id": "9faaae77-7381-482e-9e26-c9c012ac7f2c",
+    "name": "John F Kennedy Babe/Creek",
+    "tee_box": "Gold",
+    "slope": 124.0,
+    "rating": 70.4,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 489
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 441
+      },
+      {
+        "hole": 3,
+        "par_value": 3,
+        "distance": 215
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 340
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 173
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 440
+      },
+      {
+        "hole": 7,
+        "par_value": 5,
+        "distance": 578
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 409
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 403
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 386
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 311
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 390
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 448
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 144
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 528
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 145
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 400
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 408
+      }
+    ]
+  },
+  {
+    "id": "91c326d6-ae0f-4c96-89c5-44bba6b770ea",
+    "name": "Hyland Hills Gold Course",
+    "tee_box": "Blue/White",
+    "slope": 128.0,
+    "rating": 68.9,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 551
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 400
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 450
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 153
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 368
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 419
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 368
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 130
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 345
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 369
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 394
+      },
+      {
+        "hole": 12,
+        "par_value": 5,
+        "distance": 517
+      },
+      {
+        "hole": 13,
+        "par_value": 3,
+        "distance": 170
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 415
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 524
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 127
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 308
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 338
+      }
+    ]
+  },
+  {
+    "id": "b1593ea6-44cc-4135-9558-5eee3a97cdf9",
+    "name": "Heather Ridge",
+    "tee_box": "Blue",
+    "slope": 128.0,
+    "rating": 69.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 356
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 424
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 371
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 314
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 109
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 287
+      },
+      {
+        "hole": 7,
+        "par_value": 5,
+        "distance": 505
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 179
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 313
+      },
+      {
+        "hole": 10,
+        "par_value": 3,
+        "distance": 188
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 341
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 399
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 309
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 212
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 292
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 559
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 329
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 389
+      }
+    ]
+  },
+  {
+    "id": "e1700ce1-3629-4ba8-8ba4-4dc866157d73",
+    "name": "Walnut Creek",
+    "tee_box": "Tee 2/3",
+    "slope": 132.0,
+    "rating": 70.6,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 351
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 367
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 540
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 194
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 398
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 524
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 183
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 366
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 352
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 381
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 338
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 428
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 564
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 146
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 430
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 430
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 177
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 536
+      }
+    ]
+  },
+  {
+    "id": "e5cbaa0d-45b9-49ad-a166-9d4d6f53cbb6",
+    "name": "Overland Park Golf Course",
+    "tee_box": "Bronze",
+    "slope": 121.0,
+    "rating": 70.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 388
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 162
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 513
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 445
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 357
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 401
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 423
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 155
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 499
+      },
+      {
+        "hole": 10,
+        "par_value": 3,
+        "distance": 165
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 371
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 403
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 500
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 436
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 410
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 217
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 310
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 572
+      }
+    ]
+  },
+  {
+    "id": "c1c73c14-d4bb-4d18-bd4e-74feec33ca37",
+    "name": "Overland Park Golf Course",
+    "tee_box": "Gold",
+    "slope": 116.0,
+    "rating": 67.7,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 344
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 152
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 498
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 390
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 331
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 352
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 402
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 147
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 445
+      },
+      {
+        "hole": 10,
+        "par_value": 3,
+        "distance": 157
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 296
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 382
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 427
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 377
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 395
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 174
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 298
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 550
+      }
+    ]
+  },
+  {
+    "id": "3c02a36b-46b8-458f-b625-4ca308775050",
+    "name": "Bear Dance Golf Club",
+    "tee_box": "Blue",
+    "slope": 137.0,
+    "rating": 71.1,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 454
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 183
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 351
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 397
+      },
+      {
+        "hole": 5,
+        "par_value": 5,
+        "distance": 525
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 306
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 177
+      },
+      {
+        "hole": 8,
+        "par_value": 5,
+        "distance": 457
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 464
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 412
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 442
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 172
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 425
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 416
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 388
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 358
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 113
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 602
+      }
+    ]
+  },
+  {
+    "id": "28d7eef7-b530-47be-8d26-dc7fa727fe34",
+    "name": "Sandpiper Bay Golf & Country Club Sand/Piper",
+    "tee_box": "White",
+    "slope": 127.0,
+    "rating": 69.7,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 536
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 163
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 346
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 382
+      },
+      {
+        "hole": 5,
+        "par_value": 5,
+        "distance": 541
+      },
+      {
+        "hole": 6,
+        "par_value": 3,
+        "distance": 168
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 329
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 145
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 408
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 376
+      },
+      {
+        "hole": 11,
+        "par_value": 5,
+        "distance": 559
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 161
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 499
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 342
+      },
+      {
+        "hole": 15,
+        "par_value": 3,
+        "distance": 157
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 532
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 179
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 384
+      }
+    ]
+  },
+  {
+    "id": "f62d0d8e-b7f9-4e1a-a480-6801ff745f56",
+    "name": "Leopards Chase Course",
+    "tee_box": "White",
+    "slope": 135.0,
+    "rating": 70.3,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 302
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 132
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 504
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 138
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 364
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 379
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 409
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 158
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 530
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 354
+      },
+      {
+        "hole": 11,
+        "par_value": 5,
+        "distance": 485
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 357
+      },
+      {
+        "hole": 13,
+        "par_value": 3,
+        "distance": 153
+      },
+      {
+        "hole": 14,
+        "par_value": 5,
+        "distance": 482
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 383
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 138
+      },
+      {
+        "hole": 17,
+        "par_value": 5,
+        "distance": 525
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 356
+      }
+    ]
+  },
+  {
+    "id": "23c20e70-c269-4679-b4f0-234ea88f60ec",
+    "name": "Broken Tee Golf Course",
+    "tee_box": "White",
+    "slope": 124.0,
+    "rating": 70.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 298
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 380
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 360
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 304
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 169
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 490
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 173
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 362
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 508
+      },
+      {
+        "hole": 10,
+        "par_value": 3,
+        "distance": 140
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 393
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 373
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 538
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 346
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 491
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 398
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 166
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 418
+      }
+    ]
+  },
+  {
+    "id": "7ce30e36-29b3-4183-96f6-1cf180cf8b14",
+    "name": "Willis Case Golf Course",
+    "tee_box": "Gold",
+    "slope": 118.0,
+    "rating": 67.7,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 413
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 176
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 384
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 148
+      },
+      {
+        "hole": 5,
+        "par_value": 5,
+        "distance": 557
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 433
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 431
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 337
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 363
+      },
+      {
+        "hole": 10,
+        "par_value": 3,
+        "distance": 137
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 329
+      },
+      {
+        "hole": 12,
+        "par_value": 5,
+        "distance": 427
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 306
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 290
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 369
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 365
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 158
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 395
+      }
+    ]
+  },
+  {
+    "id": "92e29a99-20ac-4ef2-8863-f5f43d5f76f1",
+    "name": "Colorado National Golf Club",
+    "tee_box": "Gold/Copper",
+    "slope": 126.0,
+    "rating": 70.1,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 383
+      },
+      {
+        "hole": 2,
+        "par_value": 5,
+        "distance": 588
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 393
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 336
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 142
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 363
+      },
+      {
+        "hole": 7,
+        "par_value": 5,
+        "distance": 495
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 379
+      },
+      {
+        "hole": 9,
+        "par_value": 3,
+        "distance": 167
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 347
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 375
+      },
+      {
+        "hole": 12,
+        "par_value": 5,
+        "distance": 481
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 361
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 178
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 570
+      },
+      {
+        "hole": 16,
+        "par_value": 3,
+        "distance": 168
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 325
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 393
+      }
+    ]
+  },
+  {
+    "id": "6cd3a09b-2dbc-425d-baec-04a95ee3e8a9",
+    "name": "Goat Hill Park",
+    "tee_box": "Black",
+    "slope": 103.0,
+    "rating": 64.6,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 290
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 182
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 289
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 328
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 145
+      },
+      {
+        "hole": 6,
+        "par_value": 3,
+        "distance": 179
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 162
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 328
+      },
+      {
+        "hole": 9,
+        "par_value": 3,
+        "distance": 135
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 305
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 175
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 329
+      },
+      {
+        "hole": 13,
+        "par_value": 3,
+        "distance": 175
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 285
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 451
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 346
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 178
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 300
+      }
+    ]
+  },
+  {
+    "id": "57448aa7-1ac6-41aa-8e21-b8491f68b83e",
+    "name": "TPC Tampa Bay",
+    "tee_box": "Green",
+    "slope": 133.0,
+    "rating": 70.8,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 363
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 172
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 394
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 398
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 310
+      },
+      {
+        "hole": 6,
+        "par_value": 3,
+        "distance": 124
+      },
+      {
+        "hole": 7,
+        "par_value": 5,
+        "distance": 533
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 382
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 418
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 352
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 159
+      },
+      {
+        "hole": 12,
+        "par_value": 5,
+        "distance": 487
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 322
+      },
+      {
+        "hole": 14,
+        "par_value": 5,
+        "distance": 538
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 376
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 403
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 187
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 414
+      }
+    ]
+  },
+  {
+    "id": "048c14ce-6cc9-4864-a986-eb882fd9b1a0",
+    "name": "Wellshire Golf Course",
+    "tee_box": "Gold",
+    "slope": 126.0,
+    "rating": 69.5,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 496
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 159
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 369
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 414
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 422
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 330
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 398
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 299
+      },
+      {
+        "hole": 9,
+        "par_value": 3,
+        "distance": 148
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 425
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 140
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 452
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 420
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 225
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 348
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 362
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 382
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 480
+      }
+    ]
+  },
+  {
+    "id": "c4e3bda0-aec4-40e9-9b47-13a2b4f891e5",
+    "name": "Wellshire Golf Course",
+    "tee_box": "Bronze",
+    "slope": 129.0,
+    "rating": 70.7,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 522
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 172
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 395
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 428
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 452
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 359
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 408
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 309
+      },
+      {
+        "hole": 9,
+        "par_value": 3,
+        "distance": 157
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 474
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 144
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 470
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 449
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 252
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 363
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 392
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 391
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 522
+      }
+    ]
+  },
+  {
+    "id": "8b0d7a80-6a74-4010-8697-c3fdb147b473",
+    "name": "CommonGround Golf Course",
+    "tee_box": "Gold",
+    "slope": 126.0,
+    "rating": 70.4,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 438
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 129
+      },
+      {
+        "hole": 3,
+        "par_value": 5,
+        "distance": 556
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 388
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 427
+      },
+      {
+        "hole": 6,
+        "par_value": 3,
+        "distance": 144
+      },
+      {
+        "hole": 7,
+        "par_value": 5,
+        "distance": 532
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 331
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 364
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 391
+      },
+      {
+        "hole": 11,
+        "par_value": 5,
+        "distance": 507
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 184
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 403
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 195
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 467
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 447
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 207
+      },
+      {
+        "hole": 18,
+        "par_value": 5,
+        "distance": 534
+      }
+    ]
+  },
+  {
+    "id": "7f525151-3c24-40cc-a23f-2f246db9bbd8",
+    "name": "City Park Golf Course",
+    "tee_box": "Bronze",
+    "slope": 127.0,
+    "rating": 69.8,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 430
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 245
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 376
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 448
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 212
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 331
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 370
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 207
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 558
+      },
+      {
+        "hole": 10,
+        "par_value": 4,
+        "distance": 380
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 467
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 157
+      },
+      {
+        "hole": 13,
+        "par_value": 5,
+        "distance": 472
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 389
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 434
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 601
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 214
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 412
+      }
+    ]
+  },
+  {
+    "id": "70c93a12-f745-4dc7-95a3-b0c17b2d3f3e",
+    "name": "Stevens Park Golf Course",
+    "tee_box": "Blue",
+    "slope": 130.0,
+    "rating": 70.5,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 426
+      },
+      {
+        "hole": 2,
+        "par_value": 4,
+        "distance": 321
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 324
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 148
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 431
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 537
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 161
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 166
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 538
+      },
+      {
+        "hole": 10,
+        "par_value": 5,
+        "distance": 529
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 361
+      },
+      {
+        "hole": 12,
+        "par_value": 3,
+        "distance": 156
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 364
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 193
+      },
+      {
+        "hole": 15,
+        "par_value": 4,
+        "distance": 387
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 492
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 141
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 338
+      }
+    ]
+  },
+  {
+    "id": "3ef3e135-05be-468f-be77-9753c0b85b03",
+    "name": "Meadow Hills Golf Course",
+    "tee_box": "Blue",
+    "slope": 123.0,
+    "rating": 69.1,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 4,
+        "distance": 430
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 181
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 420
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 147
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 365
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 495
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 321
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 365
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 381
+      },
+      {
+        "hole": 10,
+        "par_value": 5,
+        "distance": 494
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 365
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 332
+      },
+      {
+        "hole": 13,
+        "par_value": 3,
+        "distance": 126
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 437
+      },
+      {
+        "hole": 15,
+        "par_value": 3,
+        "distance": 183
+      },
+      {
+        "hole": 16,
+        "par_value": 5,
+        "distance": 478
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 203
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 382
+      }
+    ]
+  },
+  {
+    "id": "97cf0172-6cb9-41d6-9b0c-1b15df6a14fc",
+    "name": "Lake Jovita Golf & Country Club",
+    "tee_box": "White",
+    "slope": 132.0,
+    "rating": 70.4,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 488
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 190
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 400
+      },
+      {
+        "hole": 4,
+        "par_value": 3,
+        "distance": 136
+      },
+      {
+        "hole": 5,
+        "par_value": 4,
+        "distance": 344
+      },
+      {
+        "hole": 6,
+        "par_value": 5,
+        "distance": 490
+      },
+      {
+        "hole": 7,
+        "par_value": 4,
+        "distance": 354
+      },
+      {
+        "hole": 8,
+        "par_value": 4,
+        "distance": 395
+      },
+      {
+        "hole": 9,
+        "par_value": 4,
+        "distance": 376
+      },
+      {
+        "hole": 10,
+        "par_value": 5,
+        "distance": 491
+      },
+      {
+        "hole": 11,
+        "par_value": 4,
+        "distance": 352
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 378
+      },
+      {
+        "hole": 13,
+        "par_value": 3,
+        "distance": 128
+      },
+      {
+        "hole": 14,
+        "par_value": 4,
+        "distance": 380
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 474
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 355
+      },
+      {
+        "hole": 17,
+        "par_value": 3,
+        "distance": 168
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 412
+      }
+    ]
+  },
+  {
+    "id": "ea938541-fd0d-4e59-8cfe-11c1e97808f9",
+    "name": "Deep Creek Golf Club",
+    "tee_box": "White",
+    "slope": 112.0,
+    "rating": 67.0,
+    "holes": [
+      {
+        "hole": 1,
+        "par_value": 5,
+        "distance": 490
+      },
+      {
+        "hole": 2,
+        "par_value": 3,
+        "distance": 139
+      },
+      {
+        "hole": 3,
+        "par_value": 4,
+        "distance": 355
+      },
+      {
+        "hole": 4,
+        "par_value": 4,
+        "distance": 303
+      },
+      {
+        "hole": 5,
+        "par_value": 3,
+        "distance": 161
+      },
+      {
+        "hole": 6,
+        "par_value": 4,
+        "distance": 314
+      },
+      {
+        "hole": 7,
+        "par_value": 3,
+        "distance": 159
+      },
+      {
+        "hole": 8,
+        "par_value": 3,
+        "distance": 140
+      },
+      {
+        "hole": 9,
+        "par_value": 5,
+        "distance": 469
+      },
+      {
+        "hole": 10,
+        "par_value": 5,
+        "distance": 471
+      },
+      {
+        "hole": 11,
+        "par_value": 3,
+        "distance": 120
+      },
+      {
+        "hole": 12,
+        "par_value": 4,
+        "distance": 334
+      },
+      {
+        "hole": 13,
+        "par_value": 4,
+        "distance": 340
+      },
+      {
+        "hole": 14,
+        "par_value": 3,
+        "distance": 104
+      },
+      {
+        "hole": 15,
+        "par_value": 5,
+        "distance": 503
+      },
+      {
+        "hole": 16,
+        "par_value": 4,
+        "distance": 344
+      },
+      {
+        "hole": 17,
+        "par_value": 4,
+        "distance": 304
+      },
+      {
+        "hole": 18,
+        "par_value": 4,
+        "distance": 374
+      }
+    ]
+  }
+]
