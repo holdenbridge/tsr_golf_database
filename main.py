@@ -8,12 +8,15 @@ from pathlib import Path
 from typing import Literal
 from urllib.parse import parse_qs
 
+from dotenv import load_dotenv
 from fastapi import Depends, FastAPI, HTTPException, Request
 from fastapi.responses import HTMLResponse, RedirectResponse
 from fastapi.templating import Jinja2Templates
 from pydantic import BaseModel, Field, field_validator, model_validator
 from starlette.middleware.sessions import SessionMiddleware
 
+_REPO_ROOT = Path(__file__).resolve().parent
+load_dotenv(_REPO_ROOT / ".env")
 CADDY_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = CADDY_DIR / "data"
 PLAYERS_PATH = DATA_DIR / "players.json"
