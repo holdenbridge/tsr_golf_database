@@ -10321,6 +10321,185 @@
             "penalties": []
           }
         }
+      },
+      {
+        "course": "Broken Tee Golf Course",
+        "tees": "White",
+        "courseId": "23c20e70-c269-4679-b4f0-234ea88f60ec",
+        "playedDate": "2026-05-23",
+        "savedAt": "2026-05-24T17:37:05.893154+00:00",
+        "holes": {
+          "1": {
+            "par": 4,
+            "distance": 298,
+            "score": 5,
+            "putts": 2,
+            "drive": "Right",
+            "gir": false,
+            "penalties": []
+          },
+          "2": {
+            "par": 4,
+            "distance": 380,
+            "score": 7,
+            "putts": 2,
+            "drive": "Fairway",
+            "gir": false,
+            "penalties": [
+              "Bunker- Green Side"
+            ]
+          },
+          "3": {
+            "par": 4,
+            "distance": 360,
+            "score": 4,
+            "putts": 2,
+            "drive": "Fairway",
+            "gir": true,
+            "penalties": []
+          },
+          "4": {
+            "par": 4,
+            "distance": 304,
+            "score": 5,
+            "putts": 2,
+            "drive": "Right",
+            "gir": false,
+            "penalties": [
+              "Bunker- Fairway"
+            ]
+          },
+          "5": {
+            "par": 3,
+            "distance": 169,
+            "score": 6,
+            "putts": 2,
+            "drive": "None",
+            "gir": false,
+            "penalties": [
+              "Hazard or OB"
+            ]
+          },
+          "6": {
+            "par": 5,
+            "distance": 490,
+            "score": 5,
+            "putts": 2,
+            "drive": "Fairway",
+            "gir": true,
+            "penalties": []
+          },
+          "7": {
+            "par": 3,
+            "distance": 173,
+            "score": 4,
+            "putts": 3,
+            "drive": "None",
+            "gir": true,
+            "penalties": []
+          },
+          "8": {
+            "par": 4,
+            "distance": 362,
+            "score": 5,
+            "putts": 3,
+            "drive": "Fairway",
+            "gir": true,
+            "penalties": []
+          },
+          "9": {
+            "par": 5,
+            "distance": 508,
+            "score": 4,
+            "putts": 1,
+            "drive": "Fairway",
+            "gir": true,
+            "penalties": []
+          },
+          "10": {
+            "par": 3,
+            "distance": 140,
+            "score": 4,
+            "putts": 3,
+            "drive": "None",
+            "gir": true,
+            "penalties": []
+          },
+          "11": {
+            "par": 4,
+            "distance": 393,
+            "score": 5,
+            "putts": 3,
+            "drive": "Left",
+            "gir": true,
+            "penalties": []
+          },
+          "12": {
+            "par": 4,
+            "distance": 373,
+            "score": 5,
+            "putts": 1,
+            "drive": "Fairway",
+            "gir": false,
+            "penalties": [
+              "Bunker- Green Side"
+            ]
+          },
+          "13": {
+            "par": 5,
+            "distance": 538,
+            "score": 7,
+            "putts": 3,
+            "drive": "Fairway",
+            "gir": false,
+            "penalties": []
+          },
+          "14": {
+            "par": 4,
+            "distance": 346,
+            "score": 5,
+            "putts": 2,
+            "drive": "Left",
+            "gir": false,
+            "penalties": []
+          },
+          "15": {
+            "par": 5,
+            "distance": 491,
+            "score": 4,
+            "putts": 2,
+            "drive": "Left",
+            "gir": false,
+            "penalties": []
+          },
+          "16": {
+            "par": 4,
+            "distance": 398,
+            "score": 4,
+            "putts": 2,
+            "drive": "Fairway",
+            "gir": true,
+            "penalties": []
+          },
+          "17": {
+            "par": 3,
+            "distance": 166,
+            "score": 4,
+            "putts": 3,
+            "drive": "None",
+            "gir": true,
+            "penalties": []
+          },
+          "18": {
+            "par": 4,
+            "distance": 418,
+            "score": 4,
+            "putts": 2,
+            "drive": "Right",
+            "gir": true,
+            "penalties": []
+          }
+        }
       }
     ]
   },
